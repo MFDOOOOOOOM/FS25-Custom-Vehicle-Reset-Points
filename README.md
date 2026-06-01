@@ -4,9 +4,9 @@
 
 ## Overview
 
-Custom Vehicle Reset Points allows you to assign custom reset locations to vehicles and implements in Farming Simulator 25.
+Custom Vehicle Reset Points allows you to assign custom reset locations to vehicles and implements.
 
-Instead of resetting equipment back to the shop, you can save a dedicated parking location anywhere on your farm and instantly return equipment to that location whenever needed.
+Instead of resetting equipment back to the shop (you still can via map), you can save a dedicated parking location anywhere on your farm and instantly return equipment to that location whenever needed.
 
 I originally built this mod for my own gameplay. I like keeping equipment organized and parked where it belongs, but I don't always want to spend time driving machinery back across the map after every job.
 
